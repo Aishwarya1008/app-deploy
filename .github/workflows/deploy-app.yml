@@ -11,6 +11,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-      steps:
-        - name: Echo Deploying Message
-          run: echo "Deploying app..."
+    steps:
+      - name: Echo Deploying Message
+        run: echo "Deploying app..."
