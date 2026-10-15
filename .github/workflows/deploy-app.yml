@@ -14,4 +14,3 @@ jobs:
       steps:
         - name: Echo Deploying Message
           run: echo "Deploying app..."
-
